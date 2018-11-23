@@ -1,0 +1,1 @@
+laracast.blade.php
